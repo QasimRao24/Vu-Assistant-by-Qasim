@@ -31,7 +31,7 @@ A Chrome extension designed to enhance the Virtual University learning experienc
 
 Since this is an unpacked extension, follow these steps to install:
 
-1. Download the latest release from the [Releases](https://github.com/YOUR_USERNAME/QuizSolver/releases) page
+1. Download the latest release from the [Releases](https://github.com/QasimRao24/QuizSolver/releases) page
 2. Extract the downloaded ZIP file to a permanent location
 3. Open Chrome and go to `chrome://extensions/`
 4. Enable "Developer mode" in the top right corner
