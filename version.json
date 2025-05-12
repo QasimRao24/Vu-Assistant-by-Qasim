@@ -1,14 +1,6 @@
 {
   "latest_version": "1.1.4",
-  "min_version": "1.1.0",
-  "update_message": "Important updates and improvements:\n- Enhanced quiz management\n- Improved lecture unlocking\n- Better UI/UX\n- Bug fixes and performance improvements",
-  "download_url": "https://github.com/QasimRao24/Vu-Assistant-by-Qasim/releases/latest",
-  "release_date": "2024-03-20",
-  "is_critical": true,
-  "changelog": [
-    "Added secure update verification system",
-    "Improved quiz management features",
-    "Enhanced lecture unlocking functionality",
-    "Fixed various bugs and improved stability"
-  ]
+  "min_version": "1.1.4",
+  "update_message": "A new version is available with important bug fixes and improvements. Please update to continue using the extension.",
+  "download_url": "https://github.com/QasimRao24/Vu-Assistant-by-Qasim/releases/latest"
 } 
